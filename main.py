@@ -6,4 +6,4 @@ def calendar(c):
     return c + " is not a month"
 
 month = ["january", "febuary", "march", "april", "may", "june", "july", "august" "september", "october", "november", "december"]
-print (calendar("march"))
+print (calendar("june"))
